@@ -1,0 +1,11 @@
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\ld25.exe.config
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\obj\Debug\ld25.exe
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\obj\Debug\ld25.pdb
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\ld25.exe
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\ld25.pdb
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\CultLib.dll
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\CultLib.pdb
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\obj\Debug\LD25.csprojResolveAssemblyReference.cache

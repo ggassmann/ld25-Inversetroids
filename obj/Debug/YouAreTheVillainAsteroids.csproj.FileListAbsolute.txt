@@ -1,0 +1,10 @@
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\YouAreTheVillainAsteroids.exe.config
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\YouAreTheVillainAsteroids.exe
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\YouAreTheVillainAsteroids.pdb
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\CultLib.dll
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\bin\Debug\CultLib.pdb
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\obj\Debug\YouAreTheVillainAsteroids.csprojResolveAssemblyReference.cache
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\obj\Debug\YouAreTheVillainAsteroids.exe
+C:\Users\Gigimoi\Dropbox\GigimoiGames\Games\YouAreTheVillainAsteroids\obj\Debug\YouAreTheVillainAsteroids.pdb
