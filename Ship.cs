@@ -23,7 +23,7 @@ namespace ld25
             : base(Rsc.Tex("rsc/Ship.png"), pos, parent, add)
         {
             Instance = this;
-            Origin = Center;
+            Origin = new Vector2f(16, 16);
             _path = Safety.CalcPath(new Vector2f(0, 0), new Vector2f(20, 10));
             Scale = new Vector2f(0.5f, 0.5f);
         }

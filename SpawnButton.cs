@@ -44,6 +44,11 @@ namespace ld25
         {
             new Asteroid("Large", thrower.Rotation, thrower.Base, Ld25.Game, 25, true);
         }
+        public override bool MouseOver()
+        {
+            return MouseManager.Pos.X > Pos.X && MouseManager.Pos.X < Pos.X + 64 && MouseManager.Pos.Y > Pos.Y &&
+                   MouseManager.Pos.Y < Pos.Y + 64;
+        }
     }
 
 }

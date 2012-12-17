@@ -15,8 +15,6 @@ namespace ld25
         {
             var cult = new Cult("Inversetroids") {ClearColor = Colors.Black};
 
-            cult.EmptyDirectory(new DirectoryInfo("rsc"));
-            cult.CopyDirectory(new DirectoryInfo("../../rsc"), new DirectoryInfo("rsc"));
             Fonts.Init();
 
             InitGame(cult);
